@@ -9,7 +9,7 @@ body {
   flex-direction: column;
 }
 
-.header{
+.header, .footer{
   display: flex;
   justify-content: space-between;
   padding: 16px;
@@ -44,9 +44,6 @@ input {
 }
 
 .footer{
-  display: flex;
-  justify-content: space-between;
-  padding: 15px;
   background-color: #eee;
 }
 
